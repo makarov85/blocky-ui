@@ -1,6 +1,6 @@
 {
   "name": "blocky-ui",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "A modern web interface for managing and controlling your Blocky DNS server.",
   "main": "src/index.ts",
   "scripts": {
